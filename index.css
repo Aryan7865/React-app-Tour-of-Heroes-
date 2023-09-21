@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+/* Base styles */
+* {
+  margin: 0;
+  font-family: "Quicksand", sans-serif;
+  color: #333;
+}
+
+body {
+  background-color: #f5f5f5;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #f1356d;
+  padding: 20px 0;
+  padding-left: 10px;
+  padding-right: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 100%;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.navbar h1 {
+  color: #fff;
+  font-size: 36px;
+  margin: 0;
+}
+
+.navbar .links {
+  margin-left: 20px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: 500;
+  margin-left: 20px;
+  font-size: 18px;
+  transition: color 0.3s ease-in-out;
+}
+
+.navbar a:hover {
+  color: #ff6392;
+}
+
+/* Content */
+.content {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Blog previews / list */
+.blog-preview {
+  padding: 20px;
+  margin: 20px 0;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.blog-preview:hover {
+  box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.2);
+}
+
+.blog-preview h2 {
+  font-size: 24px;
+  color: #f1356d;
+  margin-bottom: 12px;
+}
+
+.blog-preview a {
+  text-decoration: none;
+  color: #333;
+}
+
+/* Blog details page */
+.blog-details h2 {
+  font-size: 28px;
+  color: #f1356d;
+  margin-bottom: 20px;
+}
+
+.blog-details div {
+  margin: 20px 0;
+}
+
+.blog-details button {
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 12px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 18px;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.blog-details button:hover {
+  background: #ff6392;
+}
+
+/* Create new blog form */
+.create {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.7); /* Adjust the alpha (last) value to control transparency */
+  border-radius: 8px;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+
+.create label {
+  text-align: left;
+  display: block;
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+
+.create h2 {
+  font-size: 28px;
+  color: #f1356d;
+  margin-bottom: 30px;
+}
+
+.create input,
+.create textarea,
+.create select {
+  width: 100%;
+  padding: 12px;
+  margin: 12px 0;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  font-size: 16px;
+}
+
+.create button {
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 12px 24px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 18px;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.create button:hover {
+  background: #ff6392;
+}
+
+.hero-list a {
+  text-decoration: none;
+}
+
+
+.hero-preview {
+  border: 1px solid #f1356d;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px 0;
+  background-color: #fff;
+  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.hero-preview:hover {
+  box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.2);
+}
+body {
+  background-image: url('C:\Users\aryan\Documents\Tuts\tour-of-heroes\public\the_spider_man_4k_hd_superheroes-3840x2160.jpg'); 
+  background-size: cover; 
+  background-repeat: no-repeat; 
+  background-attachment: fixed; 
+  
+}
