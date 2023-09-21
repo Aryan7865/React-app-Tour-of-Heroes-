@@ -1,0 +1,68 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Iron Man",
+      "rank": 1,
+      "body": "Iron Man, also known as Tony Stark, is a brilliant inventor and a billionaire industrialist. He built a high-tech suit of armor equipped with advanced weaponry, becoming the armored Avenger known as Iron Man. Stark uses his genius intellect and the power of his suit to fight crime and protect the world from various threats."
+    },
+    {
+      "id": 2,
+      "name": "Captain America",
+      "rank": 2,
+      "body": "Captain America, or Steve Rogers, is a super-soldier with enhanced strength, agility, and a virtually indestructible shield. He fought in World War II as a symbol of hope and justice and continues to be a symbol of heroism in the modern world. Captain America's unwavering morals and combat skills make him a formidable superhero."
+    },
+    {
+      "id": 3,
+      "name": "Thor",
+      "rank": 3,
+      "body": "Thor is the Norse God of Thunder and a powerful superhero. Armed with the enchanted hammer Mjolnir, he possesses the ability to summon lightning, fly, and wield immense strength. Thor is a warrior who protects both Asgard and Earth from cosmic threats, drawing upon his godly powers to do so."
+    },
+    {
+      "id": 4,
+      "name": "Black Widow",
+      "rank": 4,
+      "body": "Black Widow, also known as Natasha Romanoff, is a highly skilled spy and assassin. With exceptional hand-to-hand combat abilities and espionage expertise, she's a valuable asset to the Avengers. Black Widow is known for her red hair, tactical prowess, and her dedication to protecting the world from covert threats."
+    },
+    {
+      "id": 5,
+      "name": "Spider-Man",
+      "rank": 5,
+      "body": "Spider-Man, also known as Peter Parker, gained incredible spider-like abilities after a radioactive spider bite. He can crawl on walls, has heightened agility, and can shoot webs. Spider-Man balances his life as a student and a superhero, fighting crime and upholding the responsibility that comes with great power."
+    },
+    {
+      "id": 6,
+      "name": "Wonder Woman",
+      "rank": 6,
+      "body": "Wonder Woman, also known as Diana Prince, is an Amazonian warrior with superhuman strength, agility, and a magical lasso that compels truthfulness. She hails from the mythical island of Themyscira and uses her abilities to bring peace and justice to the world as a beloved superheroine."
+    },
+    {
+      "id": 7,
+      "name": "Superman",
+      "rank": 7,
+      "body": "Superman, or Clark Kent, is a Kryptonian with god-like powers on Earth. He has superhuman strength, speed, and flight, as well as heat vision and freeze breath. Superman is a symbol of hope and justice, using his powers to protect humanity from threats while living a dual life as a mild-mannered reporter."
+    },
+    {
+      "id": 8,
+      "name": "Batman",
+      "rank": 8,
+      "body": "Batman, also known as Bruce Wayne, is a vigilante crime-fighter with no superpowers. He relies on his intellect, martial arts skills, and a vast array of gadgets to battle crime in Gotham City. Batman is known for his dark, brooding persona and his commitment to avenging the loss of his parents."
+    },
+    {
+      "id": 9,
+      "name": "Hulk",
+      "rank": 9,
+      "body": "The Hulk, or Dr. Bruce Banner, is a brilliant scientist who transforms into a raging green behemoth when he experiences extreme anger or stress. As the Hulk, he possesses immense strength and durability. Dr. Banner struggles to control his transformations while using his incredible power to help others."
+    },
+    {
+      "name": "iahfida",
+      "body": "hfushdniksab",
+      "id": 10
+    },
+    {
+      "name": "hqvdwqdy",
+      "body": "wycuwdcywd",
+      "id": 11
+    }
+  ]
+}
